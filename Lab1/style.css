@@ -1,0 +1,80 @@
+div{
+}
+
+table {
+  border-collapse: collapse;
+  width: 300px;
+}
+th, #Y { 
+	height: 30px;
+  background: #e3e3e3;
+}
+
+#ae {
+	background: #aa1;
+}
+
+td {
+	height: 30px;
+  background: #fff;
+}
+
+
+
+th, td {
+  border: 1px solid black;
+  padding: 4px;
+  text-align: center;
+}
+
+table
+	input {
+		width : 50px;
+		border: 1px;
+		text-align: center;
+		background-color: transparent;
+	}
+
+#step 
+	div{
+		float: left;
+		display: block;
+		padding: 2px;
+		border: 1px solid black;
+		margin: 5px;
+	}
+
+#equations {
+  width: 40%;
+}
+
+#cell {
+	float: left;
+}
+
+#main {
+	border: 2px solid white; 
+}
+
+.button {
+	float: left;
+	background: #e3e3e3;
+	border: 1px solid black ;
+	border-radius: 3px;
+}
+.row{
+	height: 99%;
+	width: 49%;
+}
+
+.cell{
+	height: 49%;
+}
+
+.enter{
+	height: 99%;
+	width: 99%;
+}
+
+.ex{
+	height: 33%;}
