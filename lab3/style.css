@@ -1,0 +1,43 @@
+div{
+}
+
+table {
+  border-collapse: collapse;
+  width: 300px;
+}
+th, #Y { 
+  	background: #6bd44e;
+}
+
+td{
+	background: #e0e5de;
+}
+th, td {
+  border: 1px solid black;
+  padding: 4px;
+  text-align: center;
+}
+
+table
+	input {
+		width : 50px;
+		border: 1px;
+		text-align: center;
+		background-color: transparent;
+	}
+
+#step 
+	div{
+		padding: 2px;
+		border: 1px solid black;
+		margin: 5px;
+	}
+
+.block {
+    display: inline-block;
+}
+ 
+.block
+	input, label {
+    	display: block;
+	}
